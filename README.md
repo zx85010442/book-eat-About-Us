@@ -21,7 +21,7 @@ height:50px;
 background-color:#FFFFFF;
 }
 .about{
-display:none;
+
 weight:900px;
 height:300px;
 align:center;
