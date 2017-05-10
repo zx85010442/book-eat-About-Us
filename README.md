@@ -37,14 +37,14 @@ align:center;
    <nobr class="information" id="know us">  認識我們  </nobr><nobr class="information" id="book seat">  預約座位  </nobr><nobr class="information" id="traffic">  交通位置  </nobr><nobr class="information" id="QA">  常見問題  </nobr><nobr class="information" id="comment">  意見回饋  </nobr><br> 
    </div>
    <div class="about">
-   <p></p>
-   <p></p>
-   <p></p>
-   <p></p>
-   <p></p>
-   <p></p>
-   <p></p>
-   <p></p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
+   <p> </p>
    <center>
            我們創立這個K書中心( 博客來一客 Book and Eat )是為了讓每個需要<br>
            讀書空間的人有既安靜又整潔的地方能夠使用。很多人常常讀書讀著讀著<br>
