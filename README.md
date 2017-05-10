@@ -21,6 +21,7 @@ height:50px;
 background-color:#FFFFFF;
 }
 .about{
+text-align:center;
 font-family:Microsoft JhengHei;
 weight:900px;
 height:300px;
