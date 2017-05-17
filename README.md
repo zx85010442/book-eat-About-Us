@@ -37,7 +37,7 @@ top: 8px;
 display:none;
 font-family:Microsoft JhengHei;
 weight:900px;
-height:5000px;
+height:500px;
 align:center;
 background-color:pink;
 }
