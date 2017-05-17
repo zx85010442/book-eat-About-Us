@@ -3,6 +3,7 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
+        $(".pic").fadeIn(3000);
         $("#picl").fadeIn(5000);
         $("#picm").fadeIn(30000);
         $("#pics").fadeIn(40000);
