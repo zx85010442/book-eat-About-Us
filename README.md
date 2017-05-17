@@ -45,9 +45,6 @@ height:500px;
 align:center;
 background-color:pink;
 }
-.col-xs-4{
-position:fixed;
-}
 
 
 </style>
