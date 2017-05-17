@@ -45,7 +45,9 @@ height:500px;
 align:center;
 background-color:pink;
 }
-
+.picl{
+display:none;
+}
 
 
 </style>
