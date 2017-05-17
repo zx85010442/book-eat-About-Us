@@ -86,17 +86,17 @@ display:none;
     </center>
     </strong>
      </div>
-     <div class="picl">
+     <div class="picl"><nobr>
 <img id="picl"  src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDL.png" weight="210" height="280">&emsp;
-</div>
- <div class="picm">
+</nobr></div>
+ <div class="picm"><nobr>
 <img id="picm" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDm.png" weight="210" height="280">&emsp;
-</div>
- <div class="pics">
+</nobr></div>
+ <div class="pics"><nobr>
 <img id="pics" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDS.png" weight="210" height="280">
-&emsp;</div>
- <div class="pich">
+&emsp;</nobr></div>
+ <div class="pich"><nobr>
 <img id="pich" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDH.png" weight="210" height="280">
-     </div>
+    </nobr> </div>
     
 
