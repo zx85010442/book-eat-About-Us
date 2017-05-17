@@ -3,10 +3,10 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        $(".picl").fadeIn(5000);
-        $(".picm").fadeIn(10000);
-        $(".pics").fadeIn(150000);
-        $(".pich").fadeIn(20000);
+        $("#picl").fadeIn(5000);
+        $("#picm").fadeIn(10000);
+        $("#pics").fadeIn(150000);
+        $("#pich").fadeIn(20000);
 });
 </script>
 <style>
