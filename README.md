@@ -3,11 +3,10 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        $(".pic").fadeIn(3000);
-        $("#picl").fadeIn(5000);
-        $("#picm").fadeIn(30000);
-        $("#pics").fadeIn(40000);
-        $("#pich").fadeIn(50000);
+        $(".picl").fadeIn(5000);
+        $(".picm").fadeIn(10000);
+        $(".pics").fadeIn(150000);
+        $(".pich").fadeIn(20000);
 });
 </script>
 <style>
@@ -87,11 +86,16 @@ display:none;
     </center>
     </strong>
      </div>
-     <div class="pic">
+     <div class="picl">
 <img id="picl"  src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDL.png" weight="210" height="280">&emsp;
+</div>
+ <div class="picm">
 <img id="picm" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDm.png" weight="210" height="280">&emsp;
+</div>
+ <div class="pics">
 <img id="pics" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDS.png" weight="210" height="280">
-&emsp;
+&emsp;</div>
+ <div class="pich">
 <img id="pich" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDH.png" weight="210" height="280">
      </div>
     
