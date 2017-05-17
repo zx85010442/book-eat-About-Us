@@ -62,8 +62,7 @@ background-color:pink;
    </div>
    <div class="about" id="div2">
 
- <br>
- <br>
+
  <br>
  <br>
  <br>
