@@ -1,7 +1,9 @@
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script type='text/javascript'>
-
+$(document).ready(function(){
+        $(".about").fadeIn(3000);
+});
 </script>
 <style>
 body{
@@ -36,6 +38,7 @@ font-family:Microsoft JhengHei;
 weight:900px;
 height:300px;
 align:center;
+
 }
 
 
