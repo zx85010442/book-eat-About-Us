@@ -3,6 +3,10 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
+        $("#picl").fadeToggle(5000);
+        $("#picm").fadeToggle(30000);
+        $("#pics").fadeToggle(40000);
+        $("#pich").fadeToggle(50000);
 });
 </script>
 <style>
@@ -79,4 +83,12 @@ background-color:pink;
     </center>
     </strong>
      </div>
+     <div id="pic">
+<img id="picl"  src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDL.png" weight="210" height="280">$emsp;
+<img id="picm" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDm.png" weight="210" height="280">$emsp;
+<img id="pics" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDS.png" weight="210" height="280">
+$emsp;
+<img id="pich" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDH.png" weight="210" height="280">
+     </div>
+    
 
