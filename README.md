@@ -2,7 +2,7 @@
 <script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script type='text/javascript'>
 $(document).ready(function(){
-        $(".about").fadeIn(3000);
+        $("#div2").fadeIn(3000);
 });
 </script>
 <style>
@@ -34,6 +34,7 @@ position:relative;
 top: 8px;
 }
 .about{
+display:none;
 font-family:Microsoft JhengHei;
 weight:900px;
 height:300px;
@@ -59,7 +60,7 @@ align:center;
    <nobr class="information" id="QA">&nbsp;&emsp;&emsp;常見問題&nbsp;&emsp;</nobr>
    <nobr class="information" id="comment">&nbsp;&emsp;&emsp;意見回饋&nbsp;&emsp;</nobr><br> </strong>
    </div>
-   <div class="about">
+   <div class="about" id="div2">
 
  <br>
  <br>
