@@ -3,10 +3,10 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        $("#picl").fadeToggle(6000);
-        $("#picm").fadeToggle(10000);
-        $("#pics").fadeToggle(150000);
-        $("pich").fadeToggle(20000);
+        $("#picl").fadeIn(6000);
+        $("#picm").fadeIn(10000);
+        $("#pics").fadeIn(150000);
+        $("pich").fadeIn(20000);
 });
 </script>
 <style>
@@ -45,7 +45,9 @@ height:500px;
 align:center;
 background-color:pink;
 }
-
+.col-xs-4{
+position:fixed;
+}
 
 
 </style>
