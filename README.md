@@ -45,7 +45,7 @@ height:500px;
 align:center;
 background-color:pink;
 }
-#pic{
+.pic{
 display:none;
 }
 
@@ -86,7 +86,7 @@ display:none;
     </center>
     </strong>
      </div>
-     <div id="pic">
+     <div class="pic">
 <img id="picl"  src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDL.png" weight="210" height="280">&emsp;
 <img id="picm" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDm.png" weight="210" height="280">&emsp;
 <img id="pics" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/%E7%BE%BDS.png" weight="210" height="280">
