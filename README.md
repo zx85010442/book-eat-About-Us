@@ -39,7 +39,7 @@ font-family:Microsoft JhengHei;
 weight:900px;
 height:300px;
 align:center;
-
+background-color:pink;
 }
 
 
