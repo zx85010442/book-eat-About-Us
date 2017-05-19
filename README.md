@@ -154,11 +154,11 @@ display:none;
     </div>
         <div class="row">
      <div class="col-xs-8">
-<img id="piclfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="147"> &emsp;&emsp;
-<img id="picmfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="147"> &emsp;&emsp;&emsp;
-<img id="picsfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="147">
+<img id="piclfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="157"> &emsp;&emsp;
+<img id="picmfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="157"> &emsp;&emsp;&emsp;
+<img id="picsfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="157">
 &emsp;&emsp;
-<img id="pichfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="147">
+<img id="pichfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="157">
     </div>
     </div>
 
