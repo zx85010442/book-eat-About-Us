@@ -7,15 +7,15 @@ $(document).ready(function(){
         function partA() {
         $("#picl").fadeIn("fast");
         }
-        window.setTimeout(partB,9000);
+        window.setTimeout(partB,7000);
         function partB() {
         $("#picm").fadeIn("fast");
         }
-        window.setTimeout(partC,12000);
+        window.setTimeout(partC,8000);
         function partC() {
         $("#pics").fadeIn("fast");
         }
-        window.setTimeout(partD,15000);
+        window.setTimeout(partD,9000);
         function partD() {
         $("#pich").fadeIn("fast");
         }
