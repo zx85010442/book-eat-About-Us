@@ -6,7 +6,7 @@ $(document).ready(function(){
         $("#picl").fadeIn(6000);
         $("#picm").fadeIn(10000);
         $("#pics").fadeIn(150000);
-        $("pich").fadeIn(20000);
+        $("#pich").fadeIn(20000);
 });
 </script>
 <style>
@@ -46,7 +46,18 @@ align:center;
 background-color:pink;
 }
 
-
+#picl{
+display:none;
+}
+#picm{
+display:none;
+}
+#pics{
+display:none;
+}
+#pich{
+display:none;
+}
 </style>
 <body>
 <div class="main">
