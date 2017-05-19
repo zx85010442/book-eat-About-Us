@@ -117,11 +117,11 @@ display:none;
     </div>
     <div class="row">
      <div class="col-xs-8">
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/L.jpg" weight="180" height="180"> &emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/M.jpg" weight="180" height="180"> &emsp;&emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/S.jpg" weight="180" height="180">
+<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/L.jpg" weight="210" height="210"> &emsp;&emsp;
+<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/M.jpg" weight="210" height="210"> &emsp;&emsp;&emsp;
+<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/S.jpg" weight="210" height="210">
 &emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/H.jpg" weight="180" height="180">
+<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/H.jpg" weight="210" height="210">
     </div>
     </div>
     
