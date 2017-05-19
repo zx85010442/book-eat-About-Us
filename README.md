@@ -7,17 +7,33 @@ $(document).ready(function(){
         function partA() {
         $("#picl").fadeIn("fast");
         }
+        window.setTimeout(partAL,3200);
+        function partAL() {
+        $("#picll").fadeIn("fast");
+        }
         window.setTimeout(partB,3500);
         function partB() {
         $("#picm").fadeIn("fast");
+        }
+        window.setTimeout(partBM,3700);
+        function partBM() {
+        $("#picmm").fadeIn("fast");
         }
         window.setTimeout(partC,4000);
         function partC() {
         $("#pics").fadeIn("fast");
         }
+        window.setTimeout(partCS,4200);
+        function partCS() {
+        $("#picss").fadeIn("fast");
+        }
         window.setTimeout(partD,4500);
         function partD() {
         $("#pich").fadeIn("fast");
+        }
+        window.setTimeout(partDH,4700);
+        function partDH() {
+        $("#pichh").fadeIn("fast");
         }
 });
 </script>
@@ -117,11 +133,11 @@ display:none;
     </div>
     <div class="row">
      <div class="col-xs-8">
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/L.jpg" weight="210" height="210"> &emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/M.jpg" weight="210" height="210"> &emsp;&emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/S.jpg" weight="210" height="210">
+<img id="picll" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/L.jpg" weight="210" height="210"> &emsp;&emsp;
+<img id="picmm" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/M.jpg" weight="210" height="210"> &emsp;&emsp;&emsp;
+<img id="picss" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/S.jpg" weight="210" height="210">
 &emsp;&emsp;
-<img src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/H.jpg" weight="210" height="210">
+<img id="pichh" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/H.jpg" weight="210" height="210">
     </div>
     </div>
     
