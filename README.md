@@ -5,7 +5,7 @@ $(document).ready(function(){
         $("#div2").fadeIn(3000);
         $("#picl").fadeIn(6000);
         $("#picm").fadeIn(10000);
-        $("#pics").fadeIn(150000);
+        $("#pics").fadeIn(15000);
         $("#pich").fadeIn(20000);
 });
 </script>
