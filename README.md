@@ -3,35 +3,35 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        window.setTimeout(partA,3000);
+        window.setTimeout(partA,2500);
         function partA() {
         $("#picl").fadeIn("fast");
         }
-        window.setTimeout(partAL,3200);
+        window.setTimeout(partAL,2700);
         function partAL() {
         $("#picll").fadeIn("fast");
         }
-        window.setTimeout(partB,3500);
+        window.setTimeout(partB,3000);
         function partB() {
         $("#picm").fadeIn("fast");
         }
-        window.setTimeout(partBM,3700);
+        window.setTimeout(partBM,3200);
         function partBM() {
         $("#picmm").fadeIn("fast");
         }
-        window.setTimeout(partC,4000);
+        window.setTimeout(partC,3500);
         function partC() {
         $("#pics").fadeIn("fast");
         }
-        window.setTimeout(partCS,4200);
+        window.setTimeout(partCS,3700);
         function partCS() {
         $("#picss").fadeIn("fast");
         }
-        window.setTimeout(partD,4500);
+        window.setTimeout(partD,4000);
         function partD() {
         $("#pich").fadeIn("fast");
         }
-        window.setTimeout(partDH,4700);
+        window.setTimeout(partDH,4200);
         function partDH() {
         $("#pichh").fadeIn("fast");
         }
