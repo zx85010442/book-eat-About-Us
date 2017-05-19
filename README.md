@@ -154,11 +154,16 @@ display:none;
     </div>
         <div class="row">
      <div class="col-xs-8">
-<img id="piclfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155"> &emsp;&emsp;
-<img id="picmfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155"> &emsp;&emsp;&emsp;
+<a href="https://www.facebook.com/profile.php?id=100000566121319&fref=ts">
+<img id="piclfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155"> &emsp;&emsp;</a>
+<a href="https://www.facebook.com/profile.php?id=100006711463328&fref=ts">
+<img id="picmfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155"> &emsp;&emsp;&emsp;</a>
+<a href="https://www.facebook.com/profile.php?id=100001776421309">
 <img id="picsfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155">
-&emsp;&emsp;
+&emsp;&emsp;</a>
+<a href="https://www.facebook.com/shawo.huang?fref=ts">
 <img id="pichfb" src="https://raw.githubusercontent.com/zx85010442/book-eat-About-Us/master/fb.png" weight="210" height="155">
+</a>
     </div>
     </div>
 
