@@ -86,6 +86,18 @@ display:none;
 #pich{
 display:none;
 }
+#picll{
+display:none;
+}
+#picmm{
+display:none;
+}
+#picss{
+display:none;
+}
+#pichh{
+display:none;
+}
 </style>
 <body>
 <div class="main">
