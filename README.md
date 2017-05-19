@@ -3,10 +3,22 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        $("#picl").fadeIn("fast");
+        window.setTimeout(partA,7000);
+        function partA() {
+        $("#picl").fadeIn("fast");
+        }
+        window.setTimeout(partB,4000);
+        function partB() {
         $("#picm").fadeIn("fast");
+        }
+        window.setTimeout(partC,4000);
+        function partC() {
         $("#pics").fadeIn("fast");
+        }
+        window.setTimeout(partD,4000);
+        function partD() {
         $("#pich").fadeIn("fast");
+        }
 });
 </script>
 <style>
