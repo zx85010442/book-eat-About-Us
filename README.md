@@ -3,19 +3,19 @@
 <script type='text/javascript'>
 $(document).ready(function(){
         $("#div2").fadeIn(3000);
-        window.setTimeout(partA,6000);
+        window.setTimeout(partA,4000);
         function partA() {
         $("#picl").fadeIn("fast");
         }
-        window.setTimeout(partB,7000);
+        window.setTimeout(partB,4500);
         function partB() {
         $("#picm").fadeIn("fast");
         }
-        window.setTimeout(partC,8000);
+        window.setTimeout(partC,5000);
         function partC() {
         $("#pics").fadeIn("fast");
         }
-        window.setTimeout(partD,9000);
+        window.setTimeout(partD,5500);
         function partD() {
         $("#pich").fadeIn("fast");
         }
